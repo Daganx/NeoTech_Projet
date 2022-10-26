@@ -1,0 +1,38 @@
+header{
+    color: white;
+    height: 80vh;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 5rem;
+    height: 10vh;
+    background-color: #002B5B;
+}
+
+div.nav-logo{
+    padding-left: 100px;
+}
+
+div.nav-links{
+    padding-right:250px;
+    font-weight: 600;
+}
+
+.nav-links ul{
+    display: flex;
+    gap: 20px;
+}
+
+div.nav-socials{
+    display: flex;
+    gap: 20px;
+}
+
+div.nav-socials a{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
